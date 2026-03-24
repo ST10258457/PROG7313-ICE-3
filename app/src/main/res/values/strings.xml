@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PROG7313 ICE 3</string>
+    <string name="number_1">Number 1</string>
+    <string name="number_2">Number 2</string>
+    <string name="app_heading">Calculator</string>
+    <string name="add">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+</resources>
